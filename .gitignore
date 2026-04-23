@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Folder dan File Dataset (Jangan di-push ke GitHub)
+Brazilian E-Commerce Public Dataset by Olist/
+*.csv

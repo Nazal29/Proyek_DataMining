@@ -1,0 +1,36 @@
+[
+    {
+        "timestamp": "2026-04-19 19:05:33",
+        "filename": "dataset_olist_siap_train.csv",
+        "version_hash": "1e4bf23ffc5bce14d997b723ec95b82d",
+        "metadata": {
+            "total_rows": 171,
+            "total_columns": 5,
+            "columns": [
+                "Date",
+                "product_id",
+                "Price",
+                "Quantity_Sold",
+                "Competitor_Price"
+            ]
+        },
+        "description": "Dataset matang hasil preprocessing Olist siap pakai untuk RL"
+    },
+    {
+        "timestamp": "2026-04-19 19:34:23",
+        "filename": "dataset_olist_siap_train.csv",
+        "version_hash": "1e4bf23ffc5bce14d997b723ec95b82d",
+        "metadata": {
+            "total_rows": 171,
+            "total_columns": 5,
+            "columns": [
+                "Date",
+                "product_id",
+                "Price",
+                "Quantity_Sold",
+                "Competitor_Price"
+            ]
+        },
+        "description": "Dataset matang hasil preprocessing Olist siap pakai untuk RL"
+    }
+]
